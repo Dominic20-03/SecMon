@@ -19,10 +19,10 @@ import requests
 import json
 
 # --------------------- CONFIG ---------------------
-SENDER_EMAIL = "khannirob385@gmail.com"
-SENDER_PASSWORD = "emhh gmrr pbcr tqok"
-VT_API_KEY = "d77ebff050ba6b60d5f530866a8f087a1c48e6eb2d72f2b61a5575e7d0d6a186"
-RECIPIENT_EMAIL = "darkbadhon0@gmail.com"
+SENDER_EMAIL = "Sender email"
+SENDER_PASSWORD = "Your Google app password"
+VT_API_KEY = "Your Virus Total API key"
+RECIPIENT_EMAIL = "Reciever email"
 
 APP_DIR = os.path.join(os.getcwd(), "monitor_data")
 SCREEN_DIR = os.path.join(APP_DIR, "screenshots")
